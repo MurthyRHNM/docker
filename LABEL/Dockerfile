@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="MURTHY" \
+      COURSE="DOCKER" \
+      DURATION="10HOURS"
